@@ -10,7 +10,7 @@ permissions:
   packages: write
 
 env:
-  IMAGE_NAME: ghcr.io/akrus/portal-pedidos
+  IMAGE_NAME: ghcr.io/dpti-akrus/portal-pedidos
 
 jobs:
   build-and-publish:
